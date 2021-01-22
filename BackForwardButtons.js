@@ -13,7 +13,7 @@ videojs.registerPlugin('backForwardButtons', function() {
     newElementFB.id = 'forwardButton';
 
     // +++ Assign properties to elements and assign to parents +++
-    newImageBB.setAttribute('src', 'https://raw.githubusercontent.com/bjuptech/forwardbuttons/main/backButton.png?token=ASR6NY2YOPWLFTXORLIUC5DABMQ5S');
+    newImageBB.setAttribute('src', 'https://raw.githubusercontent.com/bjuptech/forwardbuttons/main/backButton.png?token=ASR6NYY6SGOREBCNDH44ALDABMRYM');
     newElementBB.appendChild(newImageBB);
     newImageFB.setAttribute('src', 'https://raw.githubusercontent.com/bjuptech/forwardbuttons/main/forwardButton.png?token=ASR6NY3RJXPWCAYEK43JXBDABMRXE');
     newElementFB.appendChild(newImageFB);
