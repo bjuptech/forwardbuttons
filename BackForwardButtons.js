@@ -15,7 +15,7 @@ videojs.registerPlugin('backForwardButtons', function() {
     // +++ Assign properties to elements and assign to parents +++
     newImageBB.setAttribute('src', '//github.com/bjuptech/forwardbuttons/blob/main/backbutton.png?raw=true');
     newElementBB.appendChild(newImageBB);
-    newImageFB.setAttribute('src', '//github.com/bjuptech/forwardbuttons/blob/main/forwardbutton.png?raw=true');
+    newImageFB.setAttribute('src', 'https://raw.githubusercontent.com/bjuptech/forwardbuttons/main/forwardbutton.png?token=ASR6NYYCUENPNTUVBBVUZ2LABMNIS');
     newElementFB.appendChild(newImageFB);
 
     // +++ Get controlbar and insert elements +++
