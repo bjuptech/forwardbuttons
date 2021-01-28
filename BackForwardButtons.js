@@ -13,7 +13,7 @@ videojs.registerPlugin('backForwardButtons', function() {
     newElementFB.id = 'forwardButton';
 
     // +++ Assign properties to elements and assign to parents +++
-    newImageBB.setAttribute('src', 'https://raw.githubusercontent.com/bjuptech/forwardbuttons/main/backButton.png');
+    newImageBB.setAttribute('src', 'https://raw.githubusercontent.com/bjuptech/forwardbuttons/main/backarrow.png');
     newElementBB.appendChild(newImageBB);
     newImageFB.setAttribute('src', 'https://raw.githubusercontent.com/bjuptech/forwardbuttons/main/forwardarrow.png');
     newElementFB.appendChild(newImageFB);
